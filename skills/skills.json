@@ -1,0 +1,16 @@
+{
+  "skills": {
+    "customer-detection": {
+      "name": "customer-detection",
+      "path": "A:\\StrategyFramework\\clawdbot\\moltbot\\skills\\customer-detection",
+      "description": "Customer Detection - 客户检测",
+      "enabled": true,
+      "has_script": false,
+      "has_mcp": false,
+      "mounted_to": [
+        "Node-1"
+      ]
+    }
+  },
+  "mounted": {}
+}
